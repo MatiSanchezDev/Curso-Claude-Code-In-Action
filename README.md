@@ -1,3 +1,6 @@
+# Certificado del curso
+![certificado](Claude-Code-in-Action.jpg)
+
 # UIGen
 
 AI-powered React component generator with live preview.
